@@ -121,12 +121,12 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/haohmaru3000?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=haohmaru3000&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Tuan's github-readme-stats"/>
+  <a href="https://github.com/0xtuanit?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=0xtuanit&theme=radical&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Tuan's github-readme-stats"/>
   </a>
 </p>
 
 <!--
-**haohmaru3000/haohmaru3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0xtuanit/0xtuanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
