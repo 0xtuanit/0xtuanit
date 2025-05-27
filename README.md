@@ -5,8 +5,12 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -17,21 +21,17 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
@@ -43,27 +43,20 @@
   </tr>
   <tr>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="Laravel" />
-      <br>Golang
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="HTML5" />
-      <br>Rust
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Laravel" />
-      <br>Asp.Net
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -74,30 +67,37 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
     </td>
 </tr>
  <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>NodeJS
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="PHP" />
       <br>Laravel
-    </td>
-            <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="VsCode" />
       <br>Spring
+    </td> -->
+   <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=golang" width="48" height="48" alt="Laravel" />
+      <br>Golang
+    </td>
+<!--     <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="HTML5" />
+      <br>Rust -->
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="Laravel" />
+      <br>.Net
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Vue" />
       <br>Flutter
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
     </td>
      <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
@@ -111,9 +111,9 @@
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       <br>GraphQL
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
  </tr>
 </table>
